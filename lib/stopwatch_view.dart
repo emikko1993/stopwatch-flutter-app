@@ -156,7 +156,7 @@ class _StopWatchViewState extends State<StopWatchView> {
                   onPressed: () {
                     addLaps();
                   },
-                  icon: Icon(Icons.ac_unit),
+                  icon: Icon(Icons.flag),
                 ),
                 CustomButton(
                   title: 'Reset',
